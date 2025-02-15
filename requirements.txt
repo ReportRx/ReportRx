@@ -1,2 +1,5 @@
+pdf2image
 pillow
-pdfplumber
+openai
+streamlit
+python-dotenv
